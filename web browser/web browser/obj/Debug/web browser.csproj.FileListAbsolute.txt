@@ -1,0 +1,10 @@
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web browser.csprojResolveAssemblyReference.cache
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web_browser.Form1.resources
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web_browser.Properties.Resources.resources
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web browser.csproj.GenerateResource.Cache
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web browser.csproj.CoreCompileInputs.cache
+c:\users\jago\source\repos\web browser\web browser\bin\Debug\web browser.exe.config
+c:\users\jago\source\repos\web browser\web browser\bin\Debug\web browser.exe
+c:\users\jago\source\repos\web browser\web browser\bin\Debug\web browser.pdb
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web browser.exe
+c:\users\jago\source\repos\web browser\web browser\obj\Debug\web browser.pdb
