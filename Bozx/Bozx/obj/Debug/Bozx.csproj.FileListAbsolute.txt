@@ -1,7 +1,0 @@
-c:\users\jago\source\repos\Bozx\Bozx\bin\Debug\Bozx.exe.config
-c:\users\jago\source\repos\Bozx\Bozx\bin\Debug\Bozx.exe
-c:\users\jago\source\repos\Bozx\Bozx\bin\Debug\Bozx.pdb
-c:\users\jago\source\repos\Bozx\Bozx\obj\Debug\Bozx.csprojResolveAssemblyReference.cache
-c:\users\jago\source\repos\Bozx\Bozx\obj\Debug\Bozx.csproj.CoreCompileInputs.cache
-c:\users\jago\source\repos\Bozx\Bozx\obj\Debug\Bozx.exe
-c:\users\jago\source\repos\Bozx\Bozx\obj\Debug\Bozx.pdb
